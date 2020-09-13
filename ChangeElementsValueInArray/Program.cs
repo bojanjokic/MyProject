@@ -10,7 +10,7 @@ namespace ChangeElementsValueInArray
     {
         static void Main(string[] args)
         {
-            //izmena sa local repository-a
+            //izmena nova koja se desila
             int[] array = { -4, 5, -3, 4, -5, -4, -2 };
 
             ChangeElementsValue(array);
